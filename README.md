@@ -36,9 +36,4 @@ php artisan serve
 * FrameWork - [Laravel](https://laravel.com/docs/10.x)
 * Db - [MySQL](https://dev.mysql.com/doc/)
 
-
-## 📄 Licença
-
-Este projeto está sob a licença GNU General Public License v3.0 - veja o arquivo [LICENSE](https://github.com/leotinoco7/MOD2-Proj-Final/blob/main/LICENSE) para detalhes.
-
 ---
