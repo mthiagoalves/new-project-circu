@@ -21,6 +21,8 @@ Código de instalação:
 composer install
 
 npm install
+
+php artisan key:generate
 ```
 Para visualização em servidor local:
 ```
